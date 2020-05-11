@@ -4,6 +4,6 @@ A creative writing prompt generator in Finnish, inspired by online writing commu
 
 Once the number is selected, the application reads the .txt file using .readlines(), creating a list of the available prompts. Using random.sample() to prevent repeat numbers, the application generates the requested amount of random numbers from range covering the length of the list. With these numbers as indexes, it then returns prompts from the prompt list and prints them on the screen, one prompt per line.
 
-The list of prompts included ("ehdotukset.txt") will be updated and extended with time. The application is currently used through the command line, but a user interface may be created later, to help others use the generator as well.
+The list of prompts included ("ehdotukset.txt") will be updated and extended from time to time. The application is currently used through the command line, but a user interface may be created later, to help others use the generator as well.
 
-Other improvements planned include dividing the prompts into several lists based on the type or theme, and allowing the user to select the lists they wish to use for generating prompts, making the generator more useful for different kinds of writers.
+The next improvement to the code that's in the works is to divide the prompts into several lists based on the type or theme and allow the user to select the lists they wish to use for generating prompts, making the generator more useful for different kinds of writers.

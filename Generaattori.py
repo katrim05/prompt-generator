@@ -1,9 +1,5 @@
 import random
 
-
-# readme
-# lisää ehdotuksia tiedostoon
-
 print("Kirjoittamisehdotusten generaattori / Writing prompt generator")
 print()
 print("Tämä sovellus antaa sinulle haluamasi määrän tai satunnaisen määrän  \n\
@@ -11,7 +7,7 @@ sanoja tai ilmaisuja, joita voit käyttää kirjoittamisen inspiraationa.")
 print()
 
 
-maara = -1;
+maara = -1
 while maara not in range(0,13):
     maara = int(input("Montako ehdotusta haluat? Syötä kokonaisluku välillä 1-12.\n\
 Jos syötät luvun 0, kone arpoo sinulle satunnaisen määrän. "))

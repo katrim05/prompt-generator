@@ -1,116 +1,195 @@
-Juhannusyön uni
 Keskiyö
 Syyskesä
-Suojasää
-Tanssia
-Juosta
-Katsoa
-Vihreä
-Violetti
+Aamuyö
+Huomenna
+Eilen
+Tänään
+Jonakin päivänä
+Vain tämä hetki
+Suden hetki
+Kello kolme aamuyöllä
+Aika ja avaruus
+Yötön yö
+Kaamos
+Kevätpäiväntasaus
+Vappupäivä
 Orkidea
 Ruusunmarja
+Narsissi
+Vaahtera
+Tammi
+Vilja orastaa
+Pajunkissat
+Kuusi
+Suojasää
+Sadepäivä
+Talvimyrsky
+Kuiva kesä
+Sataa räntää
+Ukkonen
+Kirkas talvipäivä
+Loppukesän kuutamoyö
+Syysaurinko
+Juhannusyön uni
 En ma enää aja virvatulta
 Niistä sydämeni laulun teen
 Talvinen tarina
 Sininen linna
-Hiomaton jalokivi
-Ruostunut
-Aurinko laskee
-Puolivarjopimennys
-Rakentaa
-Kissoja ja ihmisiä
 Onhan kukittu kerta!
 Muistoja lapsen ja hopeahapsen
-Mummola
-Aamuyö
-Aistisi ovat auenneet
+Mistä tunnet sä ystävän?
+Juuri ennen aamunkoittoa on pimeintä
+Hiukan historiaa
+Tanssia
+Juosta
+Katsoa
+Rakentaa
+Vaeltaa
+Viisastella
+Ommella
+Kutoa
+Paikata
+Räjähtää
+Heilimöidä
+Halata
+Hitsata
+Kuunnella
+Uneksia
+Taistella
+Lentää
+Vihreä
+Violetti
+Ruostunut
+Ikuinen
+Yksinäinen
+Hämmästynyt
+Keltainen
+Merenvihreä
+Turhamainen
+Vaaleanpunainen
+Turkoosi
 Treffeillä
 Kotona taas
 Vihdoinkin
+Tanssit
+Yhdessä yksin
+Nuotion ääressä
+Marjojen poiminta
+Tietokilpailu
+Piknik
+Liikenneruuhka
+Viimeinen päivä töissä
+Koulut päättyvät
+Syntymäpäivä
+Lahjaostoksilla
+Lentokentällä
+Kiirehditään junaan
+Lapsenvahtina
+Hiomaton jalokivi
+Kissoja ja ihmisiä
+Aistisi ovat auenneet
+Tanssien läpi elämän
+Kuolleista herännyt
+Poissa
+Aurinko laskee
+Puolivarjopimennys
 Auringonpurkaus
 Kvantti
 Linnunrata
-Vaeltaa
-Tanssien läpi elämän
-Kuolleista herännyt
-Ikuinen
-Viisastella
-Myyjä
-Karanteeni
-Eristys
-Yksinäinen
 Kuu
-Narsissi
 Kiertoradalla
+Pimennys
+Komeetta
+Täysikuu
+Ukkospilvi
+Kumpupilvi
+Pilviharso
+Ohutta yläpilveä
+Paikkoja
+Mummola
 Voimalaitos
 Kainuu
 Budapest
 Pariisi
 Aurajoki
 Itämeri
+Joen rannalla
+Puutarhaliike
+Hedelmätarha
+Yrttimaa
+Luostari
+Lappi
+Paperikauppa
+Puutarhapalsta
+Parveke
+Synnytysosasto
+Katu
+Puro
+Sillan alla
+Myyjä
+Ballerina
+Tarinankertoja
+Tietäjä iänikuinen
+Putkimies
+Opettaja
+Pikkusisko
+Veli
+Isoäiti
+Täti
+Ystävä
+Vihollinen
+Kilpailija
+Karaokelaulaja
+Teemestari
+Kapteeni
+Sihteeri
+Nykyelämää
 Norppalive
 Verkkokurssi
-Ballerina
-Ommella
-Kutoa
-Paikata
-Räjähtää
-Jätkänshakki
-Vaahtera
-Tammi
-Siirappi
+Karanteeni
+Eristys
 Lohtuleipominen
+Metro
+Bussimatka
+Somehaaste
+Facebook-kirppis
+Lähikauppa
+Joulukorttien kirjoittaminen
+Postipaketti
 Citykani
-Vilja orastaa
-Heilimöidä
-Tanssit
-Yhdessä yksin
-Halata
 Koira
 Joutsenet palaavat
-Pajunkissat
-Kuusi
-Suden hetki
-Kello kolme aamuyöllä
-Mistä tunnet sä ystävän?
-Aika ja avaruus
-Hitsata
-Hämmästynyt
-Keltainen
-Merenvihreä
-Lohikäärme
-Tietäjä iänikuinen
-Turhamainen
-Uskallus
-Tietokilpailu
-Lentää
-Juuri ennen aamunkoittoa on pimeintä
-Hiukan historiaa
-Taistella
 Hevonen
+Simpukka
+Lammas
+Mustarastas
+Varpunen
+Hömötiainen
+Sammakko
+Valas
+Löytökissa
+Hamsteri
+Kissanpentu
+Kettu
+Perhonen
+Korppi
+Tiikeri
+Turilas
+Sarvijaakko
+Kastemato
+Jätkänshakki
 Shakkipeli
-Huomenna
-Eilen
-Tänään
-Jonakin päivänä
-Vain tämä hetki
-Nuotion ääressä
-Tarinankertoja
+Pullonpyöritys
+Piilosilla
+Biljardi
+Muistipeli
+Siirappi
+Lohikäärme
+Uskallus
 Myytti
-Uneksia
-Pimennys
-Kuunnella
 Musiikki
-Vaaleanpunainen
-Turkoosi
 Smaragdi
 Graniitti
-Simpukka
-Joen rannalla
-Poissa
 Pisara
-Sadepäivä
-Talvimyrsky
-Kuiva kesä
-Marjojen poiminta
+Fossiili
 
