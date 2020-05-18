@@ -6,27 +6,40 @@ print("Tämä sovellus antaa sinulle haluamasi määrän tai satunnaisen määr�
 sanoja tai ilmaisuja, joita voit käyttää kirjoittamisen inspiraationa.")
 print()
 
-
-maara = -1
-while maara not in range(0,13):
-    maara = int(input("Montako ehdotusta haluat? Syötä kokonaisluku välillä 1-12.\n\
+def kysy_maara():   
+    maara = -1
+    while maara not in range(0,13):
+        maara = int(input("Montako ehdotusta haluat? Syötä kokonaisluku välillä 1-12.\n\
 Jos syötät luvun 0, kone arpoo sinulle satunnaisen määrän. "))
-    if maara not in range(0,13):
-        print("Syötit virheellisen luvun.")
+        if maara not in range(0,13):
+            print("Syötit virheellisen luvun.")
+    if maara == 0:
+        maara = random.randint(1, 13)
+    return maara
 
-if maara == 0:
-    maara = random.randint(1, 13)
+def lueLista(tiedosto):
+    avaaja = open(tiedosto, "r")
+    lista = avaaja.readlines()
+    return lista
 
+def arvo_ehdotukset(lista, maara):
+    satunnaisluvut = random.sample(range(0, len(lista)), maara)
+    ehdotukset = []
+    for i in satunnaisluvut:
+       ehdotukset.append(lista[i])
+    return ehdotukset
 
-# listan luominen
-tiedosto = open("ehdotukset.txt", "r")
-lista = tiedosto.readlines()
+def tulosta_lista(ehdotukset):
+    #tulostetaan alkuun tyhjä rivi selkeyden vuoksi
+    print()
+    for item in ehdotukset:
+        print(item)
 
+def main():
+    maara = kysy_maara()
+    lista = lueLista("ehdotukset.txt")
+    ehdotukset = arvo_ehdotukset(lista, maara)
+    tulosta_lista(ehdotukset)
 
-# uniikkien satunnaislukujen luominen ehdotusten hakemista varten
-satunnaisluvut = random.sample(range(0, len(lista)), maara)
-
-print()
-# ehdotusten hakeminen ja tulostaminen listasta satunnaislukujen avulla
-for i in satunnaisluvut:
-    print(lista[i])
+if __name__ == "__main__":
+    main()
