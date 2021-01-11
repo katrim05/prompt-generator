@@ -1,6 +1,6 @@
 # Prompt generator in Finnish
 
-UPDATE January 10, 2021: Transferred this from my older hobby projects account (katrim05) to the account associated with my student e-mail account at the XAMK University of Applied Sciences. I hope to return to improving this code in the near future.
+UPDATE January 10, 2021: Transferred this from my older hobby projects account (@katrim05) to the account associated with my student e-mail account at the XAMK University of Applied Sciences (the account name is @katrimk). I hope to return to improving this code in the near future.
 
 This is meant to be a creative writing prompt generator in Finnish, inspired by online writing communities in English which have many challenges and generators supplying prompts, helping writers to jumpstart their creativity. This generator consists of a simple Python program and a list of prompts in a .txt file. 
 
